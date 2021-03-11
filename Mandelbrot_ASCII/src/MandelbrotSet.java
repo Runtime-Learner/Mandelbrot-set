@@ -5,9 +5,7 @@ public class MandelbrotSet {
 	static double radius = 2;
 	
     public static void main(String[] args) {
-        //char[] shades = {' ', '.', ',', 'c', '8', 'M', '@', 'j', 'a', 'w', 'r', 'p', 'o', 'g', 'O', 'Q', 'E', 'P', 'G', 'J'}; //20 (I didn't know how to do all of those fancy shadings so I had to se regular characters lol
-        //char[] shades = {' ', '▏', '▎', '▍', '▌', '▋', '▊', '░', '▒', '▓'}; //10
-    	char[] shades = {'$', '@', 'B', '%', '8', '&', 'W', 'M', '#', '*', 'o', 'a', 'h', 'k', 'b', 'd', 'p', 'q', 'w', 'm', 'Z', 'O', '0', 'Q', 'L', 'C', 'J', 'U', 'Y', 'X', 'z', 'c', 'v', 'u', 'n', 'x', 'r', 'j', 'f', 't', '/', '\\', 
+    	char[] shades = {' ', '@', 'B', '%', '8', '&', 'W', 'M', '#', '*', 'o', 'a', 'h', 'k', 'b', 'd', 'p', 'q', 'w', 'm', 'Z', 'O', '0', 'Q', 'L', 'C', 'J', 'U', 'Y', 'X', 'z', 'c', 'v', 'u', 'n', 'x', 'r', 'j', 'f', 't', '/', '\\', 
     			'|', '(', ')', '1', '{', '}', '[', ']', '?', '-', '+', '~', '<', '>', 'i', '!', 'l', 'I', ';', ':', ',', '"', '^', '`', '\'', '.' };
         double width = 100;
         double height = 60;
@@ -19,7 +17,6 @@ public class MandelbrotSet {
             }
             System.out.println("");
         }
-        //System.out.println(MandelbrotSet.Calculate(new Complex(1, 0), shades.length));
     }
     
     public static int Calculate(Complex z, int loopFor){
