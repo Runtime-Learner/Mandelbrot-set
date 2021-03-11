@@ -8,4 +8,4 @@ This version builds upon v1.1 by adding multiple color schemes. The color scheme
 
 ## Mandlebrot_v1.3
 Aspect ratio can now by changed by setting height and width parameters to different values. The program has also been multithreaded to allow for faster execution. </br>
-<img src="https://github.com/Runtime-Learner/mandlebrot-set/blob/main/Mandlebrot_1.0/images/MandlebrotSet_v1.3.png" alt="mandlebrot v1.1" width="450"/>
+<img src="https://github.com/Runtime-Learner/mandlebrot-set/blob/main/Mandlebrot_1.0/images/MandlebrotSet_v1.3.png" alt="mandlebrot v1.1" height="450"/>
