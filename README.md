@@ -1,5 +1,5 @@
 # Mandlebrot-set
-A collection of mandlebrot-set java projects I programmed with friends
+A collection of mandlebrot-set java projects I programmed with friends.
 
 ## Mandlebrot_ASCII
 Uses ASCII characters to print out the mandlebrot set. Results are satisfactory if font is small enough.
