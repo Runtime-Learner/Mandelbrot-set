@@ -19,4 +19,4 @@ Aspect ratio can now by changed by setting height and width parameters to differ
 
 | Mandelbrot_v1.1  | Mandelbrot_v1.2 | Mandelbrot_v1.3 |
 |:----------:|:-------------:|:------:|
-| <img src="https://github.com/Runtime-Learner/Mandelbrot-set/blob/main/Mandelbrot_1.x/images/mandelbrotset_v1.1.png" alt="mandelbrot v1.1" width="250"/> | <img src="https://github.com/Runtime-Learner/mandlebrot-set/blob/main/Mandelbrot_1.x/images/mandelbrotset_v1.2.png" alt="mandelbrot v1.2" width="250"/> | <img src="https://github.com/Runtime-Learner/mandlebrot-set/blob/main/Mandelbrot_1.x/images/MandelbrotSet_v1.3.png" alt="mandelbrot v1.3" height="250"/> |
+| <img src="https://github.com/Runtime-Learner/Mandelbrot-set/blob/main/Mandelbrot_1.x/images/mandelbrotset_v1.1.png" alt="mandelbrot v1.1" width="250"/> | <img src="https://github.com/Runtime-Learner/mandlebrot-set/blob/main/Mandelbrot_1.x/images/mandelbrotset_v1.2.png" alt="mandelbrot v1.2" width="250"/> | <img src="https://github.com/Runtime-Learner/mandlebrot-set/blob/main/Mandelbrot_1.x/images/MandelbrotSet_v1.3.png" alt="mandelbrot v1.3" width="300"/> |
