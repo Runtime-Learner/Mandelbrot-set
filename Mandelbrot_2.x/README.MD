@@ -11,7 +11,7 @@ The speeds are documented in the table below
 
 |                  | baseline (v1.3) |  v2.1  |  v2.2  |
 |----------------- |:---------------:|:------:|:------:|
-| Time taken (sec) |      93.666     | 11.488 | 3.041  |
+| Time taken (sec) |        73       |   11   |   3    |
 
 This speedup originates from the implementation of heuristics in order to short circuit computation whenever we are confident that a point is a part of the mandelbrot set.
 In order to showcase the value of this speedup, we must also verify that the results computed through heuristics matches the real values. 
