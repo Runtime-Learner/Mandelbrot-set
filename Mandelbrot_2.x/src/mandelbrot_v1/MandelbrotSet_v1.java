@@ -45,7 +45,7 @@ public class MandelbrotSet_v1 extends Thread {
 	private int ID;
 	private BufferedImage image;
 
-	static final int NUM_THREADS = 109; // faster when odd number
+	static final int NUM_THREADS = 4; // faster when odd number
 	private static int pow = 2;
 
 	public static void main(String[] args) {
@@ -79,7 +79,7 @@ public class MandelbrotSet_v1 extends Thread {
 
 		System.out.println("Time taken: " + (System.currentTimeMillis() - start));
 		GetSetPixels.writeImg(image,
-				"D:/(programmingProjects)/Java_workplace_highschool/Mandelbrot_2.x/images/mandelbrotset_v1.1.png");
+				"D:/(programmingProjects)/Java_workplace_highschool/Mandelbrot_2.x/images/mandelbrotset_v2.1.png");
 	}
 
 	public static int Calculate(Complex z, int loopFor) {

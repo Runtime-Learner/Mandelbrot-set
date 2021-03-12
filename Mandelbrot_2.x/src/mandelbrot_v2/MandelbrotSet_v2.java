@@ -46,7 +46,7 @@ public class MandelbrotSet_v2 extends Thread {
 	private BufferedImage  image;
 	
 	
-	static final int NUM_THREADS = 101; //MUST be an even number
+	static final int NUM_THREADS = 4; //MUST be an even number
 	private static int pow = 2;
 	
 	
@@ -94,7 +94,7 @@ public class MandelbrotSet_v2 extends Thread {
 		} 
 		
         System.out.println("Time taken: " + (System.currentTimeMillis() - start));
-        GetSetPixels.writeImg(image, "D:/(programmingProjects)/Java_workplace_highschool/Mandelbrot_2.x/images/mandelbrotset_v1.2.png");
+        GetSetPixels.writeImg(image, "D:/(programmingProjects)/Java_workplace_highschool/Mandelbrot_2.x/images/mandelbrotset_v2.2.png");
     }
     
     
@@ -130,7 +130,7 @@ public class MandelbrotSet_v2 extends Thread {
             }
             noChange++;
             
-            if (noChange > 5000) {
+            if (noChange > 10000) {
             	return 0;
             }
             
