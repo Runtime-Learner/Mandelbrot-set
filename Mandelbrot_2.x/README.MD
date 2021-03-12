@@ -19,13 +19,10 @@ You can see that the images are nearly identical.
 
 
 ## Mandelbrot_v1.3
-This version builds upon v1.1 by adding multiple color schemes. The color scheme in the picture below was created by [RogerTheRabbit](https://github.com/RogerTheRabbit). The aspect ratio of images is still limited to 1:1. </br>
 <img src="https://github.com/Runtime-Learner/Mandelbrot-set/blob/main/Mandelbrot_2.x/images/MandelbrotSet_v1.3.png" alt="mandelbrot v1.3" height="450"/>
 
 ## Mandelbrot_v2.1
-First program that generates a picture output. The color scheme was not worked on and the aspect ratio of images was 1:1. </br>
 <img src="https://github.com/Runtime-Learner/Mandelbrot-set/blob/main/Mandelbrot_2.x/images/mandelbrotset_v2.1.png" alt="mandelbrot v2.1" height="450"/>
 
 ## Mandelbrot_v2.2
-This version builds upon v1.1 by adding multiple color schemes. The color scheme in the picture below was created by [RogerTheRabbit](https://github.com/RogerTheRabbit). The aspect ratio of images is still limited to 1:1. </br>
 <img src="https://github.com/Runtime-Learner/Mandelbrot-set/blob/main/Mandelbrot_2.x/images/mandelbrotset_v2.2.png" alt="mandelbrot v2.2" height="450"/>
